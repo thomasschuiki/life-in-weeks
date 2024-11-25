@@ -2,8 +2,8 @@
 title 			: My Life in Weeks
 layout			: life-in-weeks
 datafile		:	life-in-weeks
-start_date	: 1975-09-19
-end_year		: 2076
+start_date	: 1987-05-21
+end_year		: 2087
 ---
 
 This is a map of my life, where each week I've been alive is a little box.
