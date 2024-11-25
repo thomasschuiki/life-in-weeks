@@ -2,7 +2,7 @@
 title 			: My Life in Weeks
 layout			: life-in-weeks
 datafile		:	life-in-weeks
-start_date	: 1987-05-21
+start_date	: 1987-05-01
 end_year		: 2087
 ---
 
